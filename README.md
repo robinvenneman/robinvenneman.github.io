@@ -1,4 +1,6 @@
 venneman.github.io
-================
+==================
 
-My Github user pages
+My Github pages
+
+coming soon... a blog perhaps? http://venneman.github.io
