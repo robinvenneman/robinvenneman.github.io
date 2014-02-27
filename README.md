@@ -1,6 +1,6 @@
-venneman.github.io
-==================
+robinvenneman.github.io
+=======================
 
-My Github pages
+My Github pages... coming soon.
 
-coming soon... a blog perhaps? http://venneman.github.io
+http://robinvenneman.github.io
